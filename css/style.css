@@ -1,0 +1,110 @@
+*{
+    font-family: 'Lora', serif;
+}
+body{
+    font-family: 'Montserrat';
+    background-color: #272727;
+}
+nav{
+    background-color: #272727;
+    color: white;
+}
+ul li a:hover{
+    color: #FF9B04 !important;
+
+}
+
+/* Carousel */
+.carousel.slide{
+    /* height: 450px; */
+    background-color: #272727;
+    color: white;
+}
+/* .carousel h1{
+    padding-top: 60px;
+    font-family: 'Lora';
+
+}
+.carousel p{
+    padding-top: 30px;
+    font-family: 'Lora' sans-serif;
+    padding-bottom: 30px;
+} */
+
+/* Card */
+.card-body{
+    background-color: #272727;
+}
+.container{
+    background-color: #272727;
+}
+.our-service{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.about-us{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.gallery{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.contact-person{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.container-fluid-card{
+    background-color: #272727;
+}
+.container-fluid-card h2{
+    padding-top: 40px;
+}
+
+/* About Us */
+.container-fluid-about{
+    background-color: #272727;
+    padding-top: 40px;
+}
+.container-fluid-about h2{
+    padding-top: 40px;
+}
+/* Contact Us */
+.card-contact{
+    background-color: white;
+    text-align: center;
+    color: #272727;
+}
+.card-contact img{
+    padding-top: 20px;
+
+}
+.card-footer{
+    background-color: #272727;
+    text-align: center;
+    color: #272727;
+}
+/* @media (max-width:412px){
+    .container-fluid-card{
+        padding-left: 50px;
+    }
+}
+@media (max-width:360px){
+    .container-fluid-card{
+        padding-left: 20px;
+    }
+}
+@media (max-width:412px){
+    .container-fluid-about{
+        padding-left: 50px;
+    }
+}
+@media (max-width:360px){
+    .container-fluid-about{
+        padding-left: 20px;
+    }
+} */
